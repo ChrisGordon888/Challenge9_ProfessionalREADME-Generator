@@ -46,5 +46,5 @@ You can also check out my GitHub profile here: [ChrisGordon888]([https://github.
 
 ## Demo
 
-Please visit this link to see the application demo: https://drive.google.com/file/d/1dYaxYRrSpALHUMpiRhxCGvuN1Aqsb_pA/view
+Please visit this link to see the application demo: (https://drive.google.com/file/d/1dYaxYRrSpALHUMpiRhxCGvuN1Aqsb_pA/view)
 
