@@ -1,8 +1,8 @@
-# Music and Vibration
+# Create A README.md
 
 ## Description
 
-How music and vibration affect us as humans.
+This application will help developers create a professionally styled README.md file for their applications.
 
 ## Table of Contents
 
@@ -15,7 +15,7 @@ How music and vibration affect us as humans.
 
 ## Installation
 
-First, Second, Third...
+Please clone the repository using the link in github and follow the steps to creating your own repository.
 
 ## Usage
 
